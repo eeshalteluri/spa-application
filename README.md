@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # SPA Application
 
@@ -144,3 +145,6 @@ Let me know:
 
 
     
+=======
+Test file
+>>>>>>> upstream/main
