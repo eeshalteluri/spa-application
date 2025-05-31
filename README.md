@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # SPA Application
 
 This is a full-stack web application consisting of a **React frontend (client)** and an **Express + MongoDB backend (server)**.
@@ -145,6 +143,4 @@ Let me know:
 
 
     
-=======
-Test file
->>>>>>> upstream/main
+
